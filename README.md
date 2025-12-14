@@ -19,9 +19,6 @@ Tenho grande interesse em sistemas ERP, especialmente o Protheus (TOTVS), além 
   <a href="maito:romulo.profissional@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="maito:romulo.profissional@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
   </div>
 ## Idiomas e ferramentas:
 <div style="display: inline-block;"><br>
