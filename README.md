@@ -8,7 +8,7 @@
 
 Sou profissional da área de tecnologia com forte atuação em suporte ao usuário, controle de chamados e manutenção de ambientes corporativos. Atualmente estou em constante evolução para a área de desenvolvimento, criando projetos práticos e funcionais para consolidar conhecimento e gerar valor real.
 
-Tenho grande interesse em sistemas ERP, especialmente o Protheus (TOTVS), além de bancos de dados e automações que facilitam o dia a dia das empresas, prestando um otimo suporte.
+Tenho grande interesse em sistemas ERP, especialmente o Protheus (TOTVS), além de bancos de dados e automações que facilitam o dia a dia das empresas.
 
 - Você pode me contatar atráves de
   <div>
